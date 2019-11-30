@@ -8,5 +8,5 @@ __pycache__/
 .Python
 build/
 
-weights/
+*.pth
 eval/
